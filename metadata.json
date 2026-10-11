@@ -1,0 +1,6 @@
+{
+  "name": "Vidhya X",
+  "description": "Premium educational platform for Grade 11 & Grade 12 Science students in Nepal with curated notes, past papers, e-books, and mock tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
